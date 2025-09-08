@@ -1,105 +1,106 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
+    "animate_buttons": true,
+    "animate_images": true,
+    "animate_images_style": "fade-in",
+    "animate_page_transition_style": "page-slide-reveal-down",
+    "animate_page_transitions": true,
+    "animate_sections": true,
+    "animate_sections_background_style": "zoom-fade",
+    "animate_sections_text_style": "rise-up",
+    "animate_underlines": true,
+    "blocks": {
+      "6478312753674380289": {
+        "disabled": false,
+        "settings": {},
+        "type": "shopify://apps/gempages-landing-page-builder/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3"
+      }
+    },
+    "breadcrumb": true,
+    "cart_additional_buttons": false,
+    "cart_notes_enable": true,
+    "cart_terms_conditions_enable": false,
+    "cart_type": "page",
+    "checkout_accent_color": "#111111",
+    "checkout_banner_background_color": "#ffffff",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_body_background_image": "shopify://shop_images/image_866c7c20-0448-4da0-bb9c-413f543a297d.jpg",
+    "checkout_body_font": "Lato",
+    "checkout_button_color": "#111111",
+    "checkout_call_to_action_color": "#a26b25",
+    "checkout_error_color": "#ff6d6d",
+    "checkout_header_image": "shopify://shop_images/blackgold600x150.jpg",
+    "checkout_heading_font": "Roboto",
+    "checkout_input_background_color_mode": "white",
+    "checkout_logo_image": "shopify://shop_images/Gold_ALBLOGO_TRANS_BKGR.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_sidebar_background_image": "",
+    "checkout_use_header_image": false,
+    "collection_color_swatches": true,
+    "color_announcement": "#0c0d49",
     "color_body_bg": "#f0f1f3",
     "color_body_text": "#034519",
     "color_borders": "#034519",
     "color_button": "#034519",
     "color_button_text": "#ffffff",
-    "color_sale_price": "#a61315",
-    "color_sale_tag": "#a61315",
     "color_cart_dot": "#a61315",
-    "color_header": "#034519",
-    "color_header_text": "#ffffff",
-    "color_announcement": "#0c0d49",
-    "color_footer": "#034519",
-    "color_footer_text": "#dedfe1",
     "color_drawer_background": "#034519",
-    "color_drawer_text": "#f0f1f3",
     "color_drawer_border": "#034519",
     "color_drawer_button": "#034519",
     "color_drawer_button_text": "#f0f1f3",
-    "color_modal_overlays": "#aeb1b8",
-    "color_image_2": "#000000",
-    "color_image_2_opacity": 0,
+    "color_drawer_text": "#f0f1f3",
+    "color_footer": "#034519",
+    "color_footer_text": "#dedfe1",
+    "color_header": "#034519",
+    "color_header_text": "#ffffff",
     "color_image_1": "#000000",
     "color_image_1_opacity": 34,
-    "color_small_image_bg": "#034519",
-    "color_large_image_bg": "#034519",
-    "type_header_font_family": "montserrat_n7",
-    "type_header_spacing": "50",
-    "type_header_base_size": 34,
-    "type_header_line_height": 1.1,
-    "type_chaney_line_height": 1,
-    "type_header_accent_transform": true,
-    "type_base_font_family": "montserrat_n4",
-    "type_base_spacing": "25",
-    "type_base_size": 16,
-    "type_base_line_height": 1.6,
-    "type_base_accent_transform": true,
-    "type_navigation_style": false,
-    "icon_weight": "3px",
-    "icon_linecaps": "miter",
-    "animate_page_transitions": true,
-    "animate_page_transition_style": "page-slide-reveal-down",
-    "animate_sections": true,
-    "animate_sections_background_style": "zoom-fade",
-    "animate_sections_text_style": "rise-up",
-    "animate_images": true,
-    "animate_images_style": "fade-in",
-    "animate_buttons": true,
-    "animate_underlines": true,
-    "product_save_type": "percent",
-    "product_grid_image_size": "square",
-    "product_grid_image_fill": true,
-    "quick_shop_text": "Quick view",
-    "enable_swatches": true,
-    "enable_product_reviews": true,
-    "cart_type": "page",
-    "cart_additional_buttons": false,
-    "cart_notes_enable": true,
-    "cart_terms_conditions_enable": false,
-    "social_facebook_link": "https:\/\/www.facebook.com\/montreetouterwear",
-    "social_twitter_link": "https:\/\/twitter.com\/shopify",
-    "social_pinterest_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/angel_laneessex",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/",
-    "social_linkedin_link": "https:\/\/www.linkedin.com\/company",
-    "social_youtube_link": "https:\/\/www.youtube.com\/user\/shopify",
-    "share_facebook": true,
-    "share_twitter": true,
-    "share_pinterest": true,
-    "favicon": "shopify:\/\/shop_images\/angel_lane_logo.jpg",
-    "show_breadcrumbs": false,
-    "checkout_header_image": "shopify:\/\/shop_images\/blackgold600x150.jpg",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Gold_ALBLOGO_TRANS_BKGR.png",
-    "checkout_logo_position": "center",
-    "checkout_logo_size": "large",
-    "checkout_body_background_image": "shopify:\/\/shop_images\/image_866c7c20-0448-4da0-bb9c-413f543a297d.jpg",
-    "checkout_body_background_color": "#ffffff",
-    "checkout_input_background_color_mode": "white",
-    "checkout_sidebar_background_image": "",
-    "checkout_sidebar_background_color": "#fafafa",
-    "checkout_heading_font": "Roboto",
-    "checkout_body_font": "Lato",
-    "checkout_accent_color": "#111111",
-    "checkout_button_color": "#111111",
-    "checkout_error_color": "#ff6d6d",
-    "product_color_swatches": true,
-    "collection_color_swatches": true,
-    "predictive_search_show_price": false,
+    "color_image_2": "#000000",
+    "color_image_2_opacity": 0,
     "color_image_bg": "#000000",
-    "breadcrumb": true,
     "color_input": "#ffffff",
-    "checkout_banner_background_color": "#ffffff",
-    "checkout_call_to_action_color": "#a26b25",
-    "checkout_use_header_image": false,
+    "color_large_image_bg": "#034519",
+    "color_modal_overlays": "#aeb1b8",
+    "color_sale_price": "#a61315",
+    "color_sale_tag": "#a61315",
+    "color_small_image_bg": "#034519",
+    "content_for_index": [
+      "1611151914a7945186",
+      "1611158275582144b2",
+      "16111552653f53a7e8",
+      "1611155835d88d6982",
+      "1611152784a643eebd",
+      "16122019795e656ba9"
+    ],
+    "enable_product_reviews": true,
+    "enable_swatches": true,
+    "favicon": "shopify://shop_images/angel_lane_logo.jpg",
+    "icon_linecaps": "miter",
+    "icon_weight": "3px",
+    "predictive_search_show_price": false,
+    "product_color_swatches": true,
+    "product_grid_image_fill": true,
+    "product_grid_image_size": "square",
+    "product_save_type": "percent",
+    "quick_shop_text": "Quick view",
     "sections": {
       "header": {
         "type": "header",
         "settings": {
           "main_menu_link_list": "main-menu",
-          "logo": "shopify:\/\/shop_images\/Copy_of_color_logo_transparent_2.png",
-          "logo-inverted": "shopify:\/\/shop_images\/Copy_of_color_logo_transparent_2_95f97b32-3e79-4cd9-b1e1-651a9d654a84.png",
+          "logo": "shopify://shop_images/Copy_of_color_logo_transparent_2.png",
+          "logo-inverted": "shopify://shop_images/Copy_of_color_logo_transparent_2_95f97b32-3e79-4cd9-b1e1-651a9d654a84.png",
           "desktop_logo_width": 400,
           "mobile_logo_width": 140,
           "main_menu_alignment": "center",
@@ -110,7 +111,7 @@
           "type_navigation_style": true,
           "show_announcement": false,
           "announcement_text": "Meet me Baby | Miete jetzt deine Lieblingsjacke",
-          "announcement_link": "shopify:\/\/pages\/rental-services",
+          "announcement_link": "shopify://pages/rental-services",
           "announcement_closable": false
         }
       },
@@ -128,7 +129,7 @@
           "354841bb-629c-4a1d-9ff4-743476fe7cbb": {
             "type": "logo_social",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/Copy_of_color_logo_transparent_2_95f97b32-3e79-4cd9-b1e1-651a9d654a84.png",
+              "logo": "shopify://shop_images/Copy_of_color_logo_transparent_2_95f97b32-3e79-4cd9-b1e1-651a9d654a84.png",
               "desktop_logo_height": 54,
               "container_width": 85
             }
@@ -179,9 +180,9 @@
               "enable_image": true,
               "image_width": 650,
               "title": "FAQs",
-              "text": "<p>Create FAQ Section<\/p>",
+              "text": "<p>Create FAQ Section</p>",
               "button_label": "Zu den FAQs",
-              "button_link": "shopify:\/\/pages\/faqs"
+              "button_link": "shopify://pages/faqs"
             }
           },
           "footer-promotions-1": {
@@ -190,9 +191,9 @@
               "enable_image": true,
               "image_width": 650,
               "title": "Visit Us",
-              "text": "<p>Google Map bit here<\/p>",
+              "text": "<p>Google Map bit here</p>",
               "button_label": "Besuche uns",
-              "button_link": "shopify:\/\/pages\/visit-us"
+              "button_link": "shopify://pages/visit-us"
             }
           },
           "footer-promotions-2": {
@@ -201,9 +202,9 @@
               "enable_image": true,
               "image_width": 650,
               "title": "Unser Blog",
-              "text": "<p>Blog Link<\/p>",
+              "text": "<p>Blog Link</p>",
               "button_label": "Blogbeiträge lesen",
-              "button_link": "shopify:\/\/blogs\/news"
+              "button_link": "shopify://blogs/news"
             }
           }
         },
@@ -225,8 +226,8 @@
           "popup_seconds": 10,
           "popup_days": 30,
           "popup_title": "10% Off When you recommend a friend",
-          "popup_image": "shopify:\/\/shop_images\/BlackAngellane.png",
-          "popup_text": "<p>You and your friend will get 10% off next time after refferal<\/p>",
+          "popup_image": "shopify://shop_images/BlackAngellane.png",
+          "popup_text": "<p>You and your friend will get 10% off next time after refferal</p>",
           "close_text": "No thanks",
           "enable_newsletter": false,
           "button_label": "Optional button",
@@ -253,7 +254,7 @@
               "subheading": "Für deine Liebsten",
               "link_text": "Jetzt ansehen",
               "text_align": "vertical-center horizontal-center",
-              "image": "shopify:\/\/shop_images\/Screenshot_2021-01-20_at_15.48.08.png",
+              "image": "shopify://shop_images/Screenshot_2021-01-20_at_15.48.08.png",
               "overlay_opacity": 0,
               "focal_point": "center center"
             }
@@ -266,7 +267,7 @@
               "subheading": "Zu unseren neuen Produkten",
               "link_text": "Shop",
               "text_align": "vertical-center horizontal-center",
-              "image": "shopify:\/\/shop_images\/Screenshot_2021-01-20_at_15.48.00.png",
+              "image": "shopify://shop_images/Screenshot_2021-01-20_at_15.48.00.png",
               "overlay_opacity": 0,
               "focal_point": "center center"
             }
@@ -279,7 +280,7 @@
               "subheading": "Zu unseren Winterprodukten",
               "link_text": "Shop",
               "text_align": "vertical-center horizontal-center",
-              "image": "shopify:\/\/shop_images\/Screenshot_2021-01-20_at_15.47.51.png",
+              "image": "shopify://shop_images/Screenshot_2021-01-20_at_15.47.51.png",
               "overlay_opacity": 0,
               "focal_point": "center center"
             }
@@ -307,7 +308,7 @@
           "title": "Unsere ARTIST Kollektionen",
           "text": "Erfahre mehr über unsere Artist Kollektionen in Zusammenarbeit  mit KünstlerInnen aus Österreich!",
           "cta_text1": "Zur Artist-Kollektion",
-          "cta_link1": "shopify:\/\/collections\/featured",
+          "cta_link1": "shopify://collections/featured",
           "cta_text2": "",
           "layout": "right",
           "divider": false
@@ -332,13 +333,13 @@
       "1611155835d88d6982": {
         "type": "text-and-image",
         "settings": {
-          "image": "shopify:\/\/shop_images\/200610_Montreet_Boulderbar_schwarzeHose_008-scaled.jpg",
+          "image": "shopify://shop_images/200610_Montreet_Boulderbar_schwarzeHose_008-scaled.jpg",
           "image_width": 500,
           "subtitle": "",
           "title": "Kurze Hose",
-          "text": "<p>Unsere nachhaltige Sporthose ist als Allrounder einsetzbar und hält all deinen Abenteuern, Klimmzügen, Megamärschen und Schanzenläufen stand. Hört sich schon ziemlich gut an oder? Aber das Beste kommt bekanntlich zum Schluss: Die Faser, die wir für die nachhaltige Sporthose verwenden, wird aus alten Fischernetzen gewonnen und ist ein reines Recyclingprodukt.<\\\/p><p>Entworfen und designt wurde die Sporthose in Kooperation mit der <a href=\"https:\\\/\\\/boulderbar.net\\\/\" target=\"_blank\">Boulderbar Vienna<\\\/a>, produziert wurde sie in der Ukraine, die Fischernetzstoffe bekommen wir aus Italien.<\\\/p>",
+          "text": "<p>Unsere nachhaltige Sporthose ist als Allrounder einsetzbar und hält all deinen Abenteuern, Klimmzügen, Megamärschen und Schanzenläufen stand. Hört sich schon ziemlich gut an oder? Aber das Beste kommt bekanntlich zum Schluss: Die Faser, die wir für die nachhaltige Sporthose verwenden, wird aus alten Fischernetzen gewonnen und ist ein reines Recyclingprodukt.<\\/p><p>Entworfen und designt wurde die Sporthose in Kooperation mit der <a href=\"https:\\/\\/boulderbar.net\\/\" target=\"_blank\">Boulderbar Vienna<\\/a>, produziert wurde sie in der Ukraine, die Fischernetzstoffe bekommen wir aus Italien.<\\/p>",
           "button_label": "Mehr dazu",
-          "button_link": "shopify:\/\/products\/sporthose-herren-kurz",
+          "button_link": "shopify://products/sporthose-herren-kurz",
           "layout": "right",
           "divider": false
         }
@@ -359,9 +360,9 @@
         "settings": {
           "subtitle": "Don't Change who you are",
           "title": "Just Start wearing Green",
-          "text": "<p>Montreet Montreet Montreet<\\\/p>",
+          "text": "<p>Montreet Montreet Montreet<\\/p>",
           "button_label": "",
-          "video_url": "https:\\\/\\\/vimeo.com\\\/462927940",
+          "video_url": "https:\\/\\/vimeo.com\\/462927940",
           "color_border": "#0c0d49",
           "layout": "left",
           "height": 550
@@ -379,79 +380,29 @@
         }
       }
     },
-    "content_for_index": [
-      "1611151914a7945186",
-      "1611158275582144b2",
-      "16111552653f53a7e8",
-      "1611155835d88d6982",
-      "1611152784a643eebd",
-      "16122019795e656ba9"
-    ],
-    "blocks": {
-      "2153490007123654574": {
-        "type": "shopify:\/\/apps\/consentmo-gdpr\/blocks\/gdpr_cookie_consent\/4fbe573f-a377-4fea-9801-3ee0858cae41",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "6478312753674380289": {
-        "type": "shopify:\/\/apps\/gempages-landing-page-builder\/blocks\/embed-gp-script-head\/20b379d4-1b20-474c-a6ca-665c331919f3",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "11596658592240905150": {
-        "type": "shopify:\/\/apps\/gempages-landing-page-builder\/blocks\/embed-gp-script-body\/20b379d4-1b20-474c-a6ca-665c331919f3",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "8409675092115237846": {
-        "type": "shopify:\/\/apps\/customer-accounts-concierge\/blocks\/custom_forms\/3c495b68-652c-468d-a0ef-5bad6935d104",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "6471712195879653093": {
-        "type": "shopify:\/\/apps\/customer-accounts-concierge\/blocks\/social_logins\/3c495b68-652c-468d-a0ef-5bad6935d104",
-        "disabled": false,
-        "settings": {
-          "position": "below",
-          "divider": true,
-          "style": "icon_and_text",
-          "text_alignment": "center",
-          "icon_alignment": "left",
-          "icon_style": "white",
-          "border_radius": 4,
-          "spacing": 8,
-          "shadow": true,
-          "custom_css": ""
-        }
-      },
-      "11651401770006824842": {
-        "type": "shopify:\/\/apps\/ymq-product-options-variants\/blocks\/app-embed\/86b91121-1f62-4e27-9812-b70a823eb918",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "12046557757412368804": {
-        "type": "shopify:\/\/apps\/customer-accounts-concierge\/blocks\/customer_account_page\/3c495b68-652c-468d-a0ef-5bad6935d104",
-        "disabled": false,
-        "settings": {
-          "style": "light",
-          "dropdownMenu": "slider",
-          "mobile_nav_offset_top": 0,
-          "shadow": true,
-          "border_radius": 4,
-          "background_color": "#ffffff",
-          "text_color": "#202202",
-          "primary_color": "#5873F9",
-          "btn_text_color": "#ffffff",
-          "max_width": 800,
-          "custom_css": ""
-        }
-      }
-    }
+    "share_facebook": true,
+    "share_pinterest": true,
+    "share_twitter": true,
+    "show_breadcrumbs": false,
+    "social_facebook_link": "https://www.facebook.com/montreetouterwear",
+    "social_instagram_link": "https://www.instagram.com/angel_laneessex",
+    "social_linkedin_link": "https://www.linkedin.com/company",
+    "social_pinterest_link": "",
+    "social_tiktok_link": "https://www.tiktok.com/",
+    "social_twitter_link": "https://twitter.com/shopify",
+    "social_youtube_link": "https://www.youtube.com/user/shopify",
+    "type_base_accent_transform": true,
+    "type_base_font_family": "montserrat_n4",
+    "type_base_line_height": 1.6,
+    "type_base_size": 16,
+    "type_base_spacing": "25",
+    "type_chaney_line_height": 1,
+    "type_header_accent_transform": true,
+    "type_header_base_size": 34,
+    "type_header_font_family": "montserrat_n7",
+    "type_header_line_height": 1.1,
+    "type_header_spacing": "50",
+    "type_navigation_style": false
   },
   "presets": {
     "Classic": {
@@ -632,8 +583,7 @@
         },
         "1566999869051": {
           "type": "featured-collection-switcher",
-          "settings": {
-          }
+          "settings": {}
         },
         "1499789718857": {
           "type": "featured-collections",
@@ -701,8 +651,8 @@
             "title_size": 80,
             "subheading": "",
             "link_text": "Watch",
-            "link": "https:\\\/\\\/www.youtube.com\\\/watch?v=_9VUPq3SxOc",
-            "video_url": "https:\\\/\\\/www.youtube.com\\\/watch?v=_9VUPq3SxOc",
+            "link": "https:\\/\\/www.youtube.com\\/watch?v=_9VUPq3SxOc",
+            "video_url": "https:\\/\\/www.youtube.com\\/watch?v=_9VUPq3SxOc",
             "section_height": "650px"
           }
         },
@@ -711,7 +661,7 @@
           "settings": {
             "subtitle": "Impressive",
             "title": "Large image and text",
-            "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+            "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
             "button_label": "",
             "button_link": "",
             "image": "",
@@ -920,8 +870,7 @@
         },
         "1566999869051": {
           "type": "featured-collection-switcher",
-          "settings": {
-          }
+          "settings": {}
         },
         "1499789718857": {
           "type": "featured-collections",
@@ -989,8 +938,8 @@
             "title_size": 80,
             "subheading": "",
             "link_text": "Watch",
-            "link": "https:\\\/\\\/www.youtube.com\\\/watch?v=_9VUPq3SxOc",
-            "video_url": "https:\\\/\\\/www.youtube.com\\\/watch?v=_9VUPq3SxOc",
+            "link": "https:\\/\\/www.youtube.com\\/watch?v=_9VUPq3SxOc",
+            "video_url": "https:\\/\\/www.youtube.com\\/watch?v=_9VUPq3SxOc",
             "section_height": "650px"
           }
         },
@@ -999,7 +948,7 @@
           "settings": {
             "subtitle": "Impressive",
             "title": "Large image and text",
-            "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\\\/p>",
+            "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\\/p>",
             "button_label": "",
             "button_link": "",
             "image": "",
@@ -1210,8 +1159,7 @@
         },
         "1566999869051": {
           "type": "featured-collection-switcher",
-          "settings": {
-          }
+          "settings": {}
         },
         "1499789718857": {
           "type": "featured-collections",
@@ -1279,8 +1227,8 @@
             "title_size": 80,
             "subheading": "",
             "link_text": "Watch",
-            "link": "https:\\\/\\\/www.youtube.com\\\/watch?v=_9VUPq3SxOc",
-            "video_url": "https:\\\/\\\/www.youtube.com\\\/watch?v=_9VUPq3SxOc",
+            "link": "https:\\/\\/www.youtube.com\\/watch?v=_9VUPq3SxOc",
+            "video_url": "https:\\/\\/www.youtube.com\\/watch?v=_9VUPq3SxOc",
             "section_height": "650px"
           }
         },
@@ -1289,7 +1237,7 @@
           "settings": {
             "subtitle": "Impressive",
             "title": "Large image and text",
-            "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\\\/p>",
+            "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\\/p>",
             "button_label": "",
             "button_link": "",
             "image": "",

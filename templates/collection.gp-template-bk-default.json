@@ -8,63 +8,63 @@
  * ------------------------------------------------------------
  */
 {
-  "order": [
-    "main-collection",
-    "2ff0b905-a576-4215-913b-703cc9e51362"
-  ],
   "sections": {
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "collection_subnav_style": "inline",
+            "per_row": 5,
+            "mobile_flush_grid": true
+          }
+        }
+      },
+      "block_order": [
+        "product_grid"
+      ],
+      "settings": {
+        "collection_image_enable": true,
+        "collection_image_height": 650,
+        "parallax": true,
+        "enable_sidebar": true,
+        "collapsed": true,
+        "enable_color_swatches": true,
+        "enable_sort": true
+      }
+    },
     "2ff0b905-a576-4215-913b-703cc9e51362": {
+      "type": "faq",
+      "disabled": true,
+      "blocks": {
+        "template--15645665558771__2ff0b905-a576-4215-913b-703cc9e51362-1674553455cc655078-0": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "template--15645665558771__2ff0b905-a576-4215-913b-703cc9e51362-1674553455cc655078-1": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
       "block_order": [
         "template--15645665558771__2ff0b905-a576-4215-913b-703cc9e51362-1674553455cc655078-0",
         "template--15645665558771__2ff0b905-a576-4215-913b-703cc9e51362-1674553455cc655078-1"
       ],
-      "blocks": {
-        "template--15645665558771__2ff0b905-a576-4215-913b-703cc9e51362-1674553455cc655078-0": {
-          "disabled": true,
-          "settings": {
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "title": "Frequently asked question"
-          },
-          "type": "question"
-        },
-        "template--15645665558771__2ff0b905-a576-4215-913b-703cc9e51362-1674553455cc655078-1": {
-          "settings": {
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "title": "Frequently asked question"
-          },
-          "type": "question"
-        }
-      },
-      "disabled": true,
       "settings": {
         "title": "FAQs"
-      },
-      "type": "faq"
-    },
-    "main-collection": {
-      "block_order": [
-        "product_grid"
-      ],
-      "blocks": {
-        "product_grid": {
-          "settings": {
-            "collection_subnav_style": "inline",
-            "mobile_flush_grid": true,
-            "per_row": 5
-          },
-          "type": "product_grid"
-        }
-      },
-      "settings": {
-        "collapsed": true,
-        "collection_image_enable": true,
-        "collection_image_height": 650,
-        "enable_color_swatches": true,
-        "enable_sidebar": true,
-        "enable_sort": true,
-        "parallax": true
-      },
-      "type": "main-collection"
+      }
     }
-  }
+  },
+  "order": [
+    "main-collection",
+    "2ff0b905-a576-4215-913b-703cc9e51362"
+  ]
 }
