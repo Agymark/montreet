@@ -2,6 +2,8 @@
 <html class="no-js" lang="{{ request.locale.iso_code }}" dir="{{ settings.text_direction }}">
   {% include 'retraced' %} 
 <head>
+ {%- if content_for_header contains 'tapita-seo-script-tags' -%}{%- include 'tapita-seo-schema' -%}{%- endif -%} 
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -158,7 +160,7 @@
   <div id="PageContainer" class="page-container">
     <div class="transition-body">
 
-    <div style="display:none"> {%- section 'header' -%} </div>
+    {%- section 'header' -%}
 
       <main class="main-content" id="MainContent">
         {{ content_for_layout }}

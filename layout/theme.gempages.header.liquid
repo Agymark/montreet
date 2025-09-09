@@ -2,6 +2,8 @@
 <html class="no-js" lang="{{ request.locale.iso_code }}" dir="{{ settings.text_direction }}">
   {% include 'retraced' %} 
 <head>
+ {%- if content_for_header contains 'tapita-seo-script-tags' -%}{%- include 'tapita-seo-schema' -%}{%- endif -%} 
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -164,20 +166,23 @@
         {{ content_for_layout }}
       </main>
 
-      
-      
+      {%- section 'footer-promotions' -%}
+      {%- section 'footer' -%}
 
     </div>
   </div>
 
   {%- if template.name == 'index' -%}
-    
+    {% section 'newsletter-popup' %}
   {%- endif -%}
 
-  
+  {%- liquid
+    render 'video-modal'
+    render 'photoswipe-template'
+  -%}
  
-  
+  {% include 'repack' %}
 
-
+{% include 'uploadkit' %}
 </body>
 </html>
